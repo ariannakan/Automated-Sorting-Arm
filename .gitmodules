@@ -1,0 +1,8 @@
+[submodule "RBE3001-Team14-NUCLEO"]
+	path = RBE3001-Team14-NUCLEO
+	url = https://github.com/ariannakan/RBE3001-Team14-NUCLEO.git
+	branch = master
+[submodule "RBE3001-Team14-MATLAB"]
+	path = RBE3001-Team14-MATLAB
+	url = https://github.com/ariannakan/RBE3001-Team14-MATLAB.git
+	branch = master
